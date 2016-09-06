@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "573285392041",
+    "project_id": "calendar-142310"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573285392041:android:71d6c6c4093080f8",
+        "android_client_info": {
+          "package_name": "calendar.garciano.com.calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573285392041-8oh6i25qeidb07qvkqfhlugnsqu961q9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "calendar.garciano.com.calendar",
+            "certificate_hash": "EFF9697BC03C489447933036583C8D4C19752DDF"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3hBUwgalcHiDE-M70pIz-Tt404F_9mt0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
